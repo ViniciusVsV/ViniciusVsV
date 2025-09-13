@@ -1,33 +1,33 @@
-# 👋 Olá, eu sou [Seu Nome]  
+# 👋 Hi, I'm Vinicius
 
-🎮 **Desenvolvedor de Jogos** apaixonado por criar experiências digitais únicas.  
-💻 Trabalho principalmente com **Unity** e **C#**, desenvolvendo jogos **2D e 3D**.  
-
----
-
-## 🚀 Sobre mim  
-- 🔹 Experiência no desenvolvimento de **mecânicas de gameplay**  
-- 🔹 Criação de **sistemas de física, movimentação e colisão**  
-- 🔹 Desenvolvimento de **UI/UX e shaders** para jogos  
-- 🔹 Otimização de projetos para **melhor performance**  
-- 🔹 Trabalho em equipe com **controle de versão (Git/GitHub)**  
+🎮 **Game Developer** passionate about creating unique digital experiences.  
+💻 I mainly work with **Unity** and **C#**, developing both **2D and 3D** games.  
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** C#  
+## 🚀 About Me  
+- 🔹 Experience in developing **gameplay mechanics**  
+- 🔹 Building **physics, movement, and collision systems**  
+- 🔹 Developing **UI/UX and shaders** for games  
+- 🔹 Project optimization for **better performance**  
+- 🔹 Team collaboration using **version control (Git/GitHub)**  
+
+---
+
+## 🛠️ Tech & Tools  
+- **Languages:** C#  
 - **Game Engine:** Unity (2D & 3D)  
-- **Controle de Versão:** Git, GitHub  
-- **Outros:** Shader Graph, Cinemachine, URP  
+- **Version Control:** Git, GitHub  
+- **Others:** Shader Graph, Cinemachine, URP  
 
 ---
 
-## 📈 Estatísticas do GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=tokyonight)  
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusVsV&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVsV&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌐 Onde me encontrar  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuusuario)  
-- 📧 Email: seuemail@exemplo.com  
+## 🌐 Where to find me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
+- 📧 Email: youremail@example.com  
