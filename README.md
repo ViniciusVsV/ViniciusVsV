@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Vinicius
 
-🎮 **Game Developer** passionate about creating unique digital experiences.  
-💻 I mainly work with **Unity** and **C#**, developing both **2D and 3D** games.  
+🎮 **Computer Science** undergraduate, passionate about coding and creating games.    
 
 ---
 
-## 🚀 About Me  
-- 🔹 Experience in developing **gameplay mechanics**  
-- 🔹 Project optimization for **better performance**  
+## 🚀 Experience  
+- 🔹 **2D and 3D game development** in Unity 
+- 🔹 **Web development** using Angular and .Net
+- 🔹 Basic **Geospatial data** experience
 - 🔹 Team collaboration using **version control (Git/GitHub)**  
 
 ---
 
 ## 🛠️ Tech & Tools  
-- **Languages:** C#  
+- **Languages:** C#, Typescript, Python, C  
 - **Game Engine:** Unity (2D & 3D)  
 - **Version Control:** Git, GitHub  
-- **Others:** Shader Graph, Cinemachine, URP  
+- **Others:** Shader Graph, Cinemachine, Gdal Library
 
 ---
 
