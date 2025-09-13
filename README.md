@@ -7,8 +7,6 @@
 
 ## 🚀 About Me  
 - 🔹 Experience in developing **gameplay mechanics**  
-- 🔹 Building **physics, movement, and collision systems**  
-- 🔹 Developing **UI/UX and shaders** for games  
 - 🔹 Project optimization for **better performance**  
 - 🔹 Team collaboration using **version control (Git/GitHub)**  
 
