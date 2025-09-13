@@ -29,5 +29,5 @@
 ---
 
 ## 🌐 Where to find me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 📧 Email: youremail@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinícius-de-sousa-viana-9a6751384/)  
+- 📧 Email: viniciusvsv193@gmail.com  
