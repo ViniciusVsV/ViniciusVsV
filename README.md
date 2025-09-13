@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinicius
 
-🎮 **Computer Science** undergraduate, passionate about coding and creating games.    
+💻 **Computer Science** undergraduate, passionate about coding and creating games.    
 
 ---
 
